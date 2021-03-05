@@ -79,3 +79,5 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
     |19.02|05.03|
     |:-:|:-:|
     |[Курс работы](https://www.youtube.com/watch?v=h22mUsTt-sE&ab_channel=disruptivebreakdown)|[ТЗ](https://drive.google.com/drive/folders/1gNpWKXn_Sa9Qa3pmMudKMy5p4gm8o64-)|
+
+- [**Гугл доки группы**](https://docs.google.com/spreadsheets/d/1ydhR2zpzWt_ssdq2juNnF97KP0724KDnvydPHLEuqvs/edit)
