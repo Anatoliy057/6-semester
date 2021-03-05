@@ -31,7 +31,7 @@ Zoom https://us04web.zoom.us/j/2431137979?pwd=a2ErRTFtRFNGVTdTYjdQSzB5N2E3Zz09
 
 ### **ТП Тарасов**
 
-Youtube
+Youtube https://www.youtube.com/channel/UCKZlcZ7rl5cqo_I4Ytv86Mw
 
 ***
 
