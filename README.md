@@ -68,3 +68,14 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 ### **ИСиС Коваль**
 
 Мудл/G-Drive https://edu.vsu.ru/course/view.php?id=2215
+
+## Материалы
+
+- **ИСиС Коваль**
+  - Гугл диск https://drive.google.com/drive/folders/1gNpWKXn_Sa9Qa3pmMudKMy5p4gm8o64-
+
+- **ТП**
+
+    |19.02|05.03|
+    |:-:|:-:|
+    |null|[ТЗ](https://drive.google.com/drive/folders/1gNpWKXn_Sa9Qa3pmMudKMy5p4gm8o64-)|
