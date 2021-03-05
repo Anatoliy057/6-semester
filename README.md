@@ -25,7 +25,7 @@ Skype https://join.skype.com/mYDFGsCbk23B
 
 ### **ЯП Самойлов**
 
-Zoom Кидает ссылку в группе вк
+Zoom https://us04web.zoom.us/j/2431137979?pwd=a2ErRTFtRFNGVTdTYjdQSzB5N2E3Zz09
 
 ***
 
