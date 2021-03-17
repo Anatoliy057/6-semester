@@ -123,4 +123,4 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
 - [Гугл доки](https://docs.google.com/spreadsheets/d/1ydhR2zpzWt_ssdq2juNnF97KP0724KDnvydPHLEuqvs/edit)
 
-- [Святой Владимир](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGBQkXeY4mi8Fza3inyJkew&cc_key=)
+- [Святой Владимир](https://www.youtube.com/channel/UCGBQkXeY4mi8Fza3inyJkew)
