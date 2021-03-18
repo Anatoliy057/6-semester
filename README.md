@@ -65,10 +65,12 @@ Youtube https://www.youtube.com/channel/UCKZlcZ7rl5cqo_I4Ytv86Mw
 ### **ЯП Лисачев**
 
 Zoom https://dataart.zoom.us/j/95522785802
-<br>
+
+>Код доступа: **fkn**
+
 |18.02|25.02|04.03|11.03|
 |:-:|:-:|:-:|:-:|
-|[>>>](https://www.youtube.com/watch?v=EgIFICUa3ks)|[>>>](https://www.youtube.com/watch?v=LqmSm18i7CE)|[>>>](https://www.youtube.com/watch?v=o19SL70WIHU)|[>>>](https://www.youtube.com/watch?v=PqeziTYljgk)|
+|[>>>](https://www.youtube.com/watch?v=EgIFICUa3ks)|[>>>](https://www.youtube.com/watch?v=LqmSm18i7CE)|[>>>](https://www.youtube.com/watch?v=o19SL70WIHU)|[>>>](https://www.youtube.com/watch?v=PqeziTYljgk)||
 <br>
 ***
 
@@ -86,9 +88,9 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
 Мудл https://edu.vsu.ru/course/view.php?id=3978
 <br>
-|17.02|24.02|03.03|10.03|
-|:-:|:-:|:-:|:-:|
-|[Алгебра операторов](https://www.youtube.com/watch?v=hxgZwEqqss8)|[Собственные функции и значения оператора](https://www.youtube.com/watch?v=cWcrMok8uIw)|[Постулаты квантовой теории](https://www.youtube.com/watch?v=cotw9JPmzFw)|[Примеры решения уравнения Шредингера](https://www.youtube.com/watch?v=hrPvoof0dJo&t=3197s)|
+|17.02|24.02|03.03|10.03|17.03|
+|:-:|:-:|:-:|:-:|:-:|
+|[Алгебра операторов](https://www.youtube.com/watch?v=hxgZwEqqss8)|[Собственные функции<br>и значения оператора](https://www.youtube.com/watch?v=cWcrMok8uIw)|[Постулаты квантовой теории](https://www.youtube.com/watch?v=cotw9JPmzFw)|[Примеры решения<br> уравнения Шредингера](https://www.youtube.com/watch?v=hrPvoof0dJo&t=3197s)|[Спиннеры](https://www.youtube.com/watch?v=gPkQFFCP9uQ)|
 <br>
 ***
 
@@ -96,9 +98,9 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
 Мудл https://edu.vsu.ru/course/view.php?id=1632
 <br>
-|18.02|25.02|04.03|11.03|
-|:-:|:-:|:-:|:-:|
-|[>>>](https://www.youtube.com/watch?v=WUkw7Ceiqk0)|[>>>](https://www.youtube.com/watch?v=5uTmoxPIbbo)|[>>>](https://www.youtube.com/watch?v=2LVyUlEtjpE)|[>>>](https://www.youtube.com/watch?v=UiLblfQuyc0)|
+|18.02|25.02|04.03|11.03|18.03|
+|:-:|:-:|:-:|:-:|:-:|
+|[>>>](https://www.youtube.com/watch?v=WUkw7Ceiqk0)|[>>>](https://www.youtube.com/watch?v=5uTmoxPIbbo)|[>>>](https://www.youtube.com/watch?v=2LVyUlEtjpE)|[>>>](https://www.youtube.com/watch?v=UiLblfQuyc0)|[>>>](https://www.youtube.com/watch?v=-tmjGnzY-1I)|
 <br>
 ***
 
@@ -108,7 +110,7 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 <br>
 |19.02|05.03|
 |:-:|:-:|
-|[ЭКОНОМИКА КАК СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СИСТЕМА](https://www.youtube.com/watch?v=CmHddE4ST9k)|[ОБЩЕСТВЕННОЕ ПРОИЗВОДСТВО И ВОСПРОИЗВОДСТВО](https://www.youtube.com/watch?v=MNzAEayrjY0)|
+|[Экономика как<br>социально-экономическая<br>система](https://www.youtube.com/watch?v=CmHddE4ST9k)|[Общественное производство<br>и воспроизводство](https://www.youtube.com/watch?v=MNzAEayrjY0)|
 <br>
 ***
 
