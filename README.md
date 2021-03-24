@@ -78,9 +78,9 @@ Zoom https://dataart.zoom.us/j/95522785802
 
 Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 <br>
-|19.02|25.02|05.03|12.03|
-|:-:|:-:|:-:|:-:|
-|[>>>](https://www.youtube.com/watch?v=fIorkfiPmHE) [>>>](https://www.youtube.com/watch?v=KnMb2_KwtH0)|[>>>](https://www.youtube.com/watch?v=ZXUkFgpH4-c)|[>>>](https://www.youtube.com/watch?v=-USL8DdiyuY)|[>>>](https://www.youtube.com/watch?v=2RQZQmRp4AY)|
+|19.02|25.02|05.03|12.03|19.03|
+|:-:|:-:|:-:|:-:|:-:|
+|[>>>](https://www.youtube.com/watch?v=fIorkfiPmHE) [>>>](https://www.youtube.com/watch?v=KnMb2_KwtH0)|[>>>](https://www.youtube.com/watch?v=ZXUkFgpH4-c)|[>>>](https://www.youtube.com/watch?v=-USL8DdiyuY)|[>>>](https://www.youtube.com/watch?v=2RQZQmRp4AY)|[>>>](https://www.youtube.com/watch?v=0lxA4qnTPjI)|
 <br>
 ***
 
@@ -91,6 +91,7 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 |17.02|24.02|03.03|10.03|17.03|
 |:-:|:-:|:-:|:-:|:-:|
 |[Алгебра операторов](https://www.youtube.com/watch?v=hxgZwEqqss8)|[Собственные функции<br>и значения оператора](https://www.youtube.com/watch?v=cWcrMok8uIw)|[Постулаты квантовой теории](https://www.youtube.com/watch?v=cotw9JPmzFw)|[Примеры решения<br> уравнения Шредингера](https://www.youtube.com/watch?v=hrPvoof0dJo&t=3197s)|[Спиннеры](https://www.youtube.com/watch?v=gPkQFFCP9uQ)|
+|[PDF](quanta/lections/Lektsia_1.pdf)|[PDF](quanta/lections/Lektsia_2.pdf)|[PDF](quanta/lections/Lektsia_3.pdf)|[PDF](quanta/lections/Lektsia_4.pdf)|[PDF](quanta/lections/Lektsia_5.pdf)|
 <br>
 ***
 
@@ -108,9 +109,9 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
 Мудл https://edu.vsu.ru/course/view.php?id=2163
 <br>
-|19.02|05.03|
-|:-:|:-:|
-|[Экономика как<br>социально-экономическая<br>система](https://www.youtube.com/watch?v=CmHddE4ST9k)|[Общественное производство<br>и воспроизводство](https://www.youtube.com/watch?v=MNzAEayrjY0)|
+|19.02|05.03|19.03|
+|:-:|:-:|:-:|
+|[Экономика как<br>социально-экономическая<br>система](https://www.youtube.com/watch?v=CmHddE4ST9k)|[Общественное производство<br>и воспроизводство](https://www.youtube.com/watch?v=MNzAEayrjY0)|[Рынок и механизм<br>его функционирования](https://www.youtube.com/watch?v=QTCvK4kSJlo)|
 <br>
 ***
 
