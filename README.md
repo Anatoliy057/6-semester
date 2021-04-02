@@ -65,9 +65,9 @@ Zoom https://us04web.zoom.us/j/2431137979?pwd=a2ErRTFtRFNGVTdTYjdQSzB5N2E3Zz09
 
 Youtube https://www.youtube.com/channel/UCKZlcZ7rl5cqo_I4Ytv86Mw
 
-|19.02|05.03|
-|:-:|:-:|
-|[>>>](https://www.youtube.com/watch?v=DxNECJzLIZA)|[>>>](https://www.youtube.com/watch?v=B0Jo9YUbY30)|
+|19.02|05.03|02.04|
+|:-:|:-:|:-:|
+|[>>>](https://www.youtube.com/watch?v=DxNECJzLIZA)|[>>>](https://www.youtube.com/watch?v=B0Jo9YUbY30)|[Обзоры](https://www.youtube.com/watch?v=3cvrgF31Sd0)|
 
 <br>
 
