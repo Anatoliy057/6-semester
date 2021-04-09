@@ -81,9 +81,9 @@ Zoom https://dataart.zoom.us/j/95522785802
 
 >Код доступа: **fkn**
 
-|18.02|25.02|04.03|11.03|18.03|01.04|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|[>>>](https://www.youtube.com/watch?v=EgIFICUa3ks)|[>>>](https://www.youtube.com/watch?v=LqmSm18i7CE)|[>>>](https://www.youtube.com/watch?v=o19SL70WIHU)|[>>>](https://www.youtube.com/watch?v=PqeziTYljgk)|[>>>](https://www.youtube.com/watch?v=XAYgQ04V-PY)|[>>>](https://www.youtube.com/watch?v=m_iGwdx15sM)
+|18.02|25.02|04.03|11.03|18.03|01.04|08.04|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[>>>](https://www.youtube.com/watch?v=EgIFICUa3ks)|[>>>](https://www.youtube.com/watch?v=LqmSm18i7CE)|[>>>](https://www.youtube.com/watch?v=o19SL70WIHU)|[>>>](https://www.youtube.com/watch?v=PqeziTYljgk)|[>>>](https://www.youtube.com/watch?v=XAYgQ04V-PY)|[>>>](https://www.youtube.com/watch?v=m_iGwdx15sM)|[>>>](https://www.youtube.com/watch?v=_d9ZTIC0DGE)|
 
 <br>
 
@@ -93,11 +93,12 @@ Zoom https://dataart.zoom.us/j/95522785802
 
 ### **ИТ Михайлов**
 
-Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
+Мудл https://edu.vsu.ru/course/view.php?id=7341  
+Zoom (устарело) https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
-|19.02|25.02|05.03|12.03|19.03|26.06|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|[>>>](https://www.youtube.com/watch?v=fIorkfiPmHE) [>>>](https://www.youtube.com/watch?v=KnMb2_KwtH0)|[>>>](https://www.youtube.com/watch?v=ZXUkFgpH4-c)|[>>>](https://www.youtube.com/watch?v=-USL8DdiyuY)|[>>>](https://www.youtube.com/watch?v=2RQZQmRp4AY)|[>>>](https://www.youtube.com/watch?v=0lxA4qnTPjI)|[>>>](https://www.youtube.com/watch?v=PapLi4lg51Y)|
+|19.02|25.02|05.03|12.03|19.03|26.06|02.04|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[>>>](https://www.youtube.com/watch?v=fIorkfiPmHE) [>>>](https://www.youtube.com/watch?v=KnMb2_KwtH0)|[>>>](https://www.youtube.com/watch?v=ZXUkFgpH4-c)|[>>>](https://www.youtube.com/watch?v=-USL8DdiyuY)|[>>>](https://www.youtube.com/watch?v=2RQZQmRp4AY)|[>>>](https://www.youtube.com/watch?v=0lxA4qnTPjI)|[>>>](https://www.youtube.com/watch?v=PapLi4lg51Y)|[>>>](https://www.youtube.com/watch?v=CHrnVIOhc64)|
 
 <br>
 
@@ -109,10 +110,10 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
 Мудл https://edu.vsu.ru/course/view.php?id=3978
 
-|17.02|24.02|03.03|10.03|17.03|24.03|31.03|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[Алгебра операторов](https://www.youtube.com/watch?v=hxgZwEqqss8)|[Собственные функциии значения оператора](https://www.youtube.com/watch?v=cWcrMok8uIw)|[Постулаты квантовой теории](https://www.youtube.com/watch?v=cotw9JPmzFw)|[Примеры решения уравнения Шредингера](https://www.youtube.com/watch?v=hrPvoof0dJo&t=3197s)|[Спиннеры](https://www.youtube.com/watch?v=gPkQFFCP9uQ)|[Кубиты](https://www.youtube.com/watch?v=s7NTxDrn4vY)|[Супер кубиты](https://www.youtube.com/watch?v=TS8I3Rsyoz4)|
-|[PDF](quanta/lections/Lektsia_1.pdf)|[PDF](quanta/lections/Lektsia_2.pdf)|[PDF](quanta/lections/Lektsia_3.pdf)|[PDF](quanta/lections/Lektsia_4.pdf)|[PDF](quanta/lections/Lektsia_5.pdf)|[PDF](quanta/lections/Lektsia_6.pdf)|[PDF](quanta/lections/Lektsia_7.pdf)|
+|17.02|24.02|03.03|10.03|17.03|24.03|31.03|07.04|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Алгебра операторов](https://www.youtube.com/watch?v=hxgZwEqqss8)|[Собственные функциии значения оператора](https://www.youtube.com/watch?v=cWcrMok8uIw)|[Постулаты квантовой теории](https://www.youtube.com/watch?v=cotw9JPmzFw)|[Примеры решения уравнения Шредингера](https://www.youtube.com/watch?v=hrPvoof0dJo&t=3197s)|[Спиннеры](https://www.youtube.com/watch?v=gPkQFFCP9uQ)|[Кубиты](https://www.youtube.com/watch?v=s7NTxDrn4vY)|[Супер кубиты](https://www.youtube.com/watch?v=TS8I3Rsyoz4)|[Квантовые алгоритмы](https://www.youtube.com/watch?v=f6FcddyZe1c)|
+|[PDF](quanta/lections/Lektsia_1.pdf)|[PDF](quanta/lections/Lektsia_2.pdf)|[PDF](quanta/lections/Lektsia_3.pdf)|[PDF](quanta/lections/Lektsia_4.pdf)|[PDF](quanta/lections/Lektsia_5.pdf)|[PDF](quanta/lections/Lektsia_6.pdf)|[PDF](quanta/lections/Lektsia_7.pdf)||
 
 <br>
 
@@ -124,9 +125,9 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
 Мудл https://edu.vsu.ru/course/view.php?id=1632
 
-|18.02|25.02|04.03|11.03|18.03|25.03|01.04|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[>>>](https://www.youtube.com/watch?v=WUkw7Ceiqk0)|[>>>](https://www.youtube.com/watch?v=5uTmoxPIbbo)|[>>>](https://www.youtube.com/watch?v=2LVyUlEtjpE)|[>>>](https://www.youtube.com/watch?v=UiLblfQuyc0)|[>>>](https://www.youtube.com/watch?v=-tmjGnzY-1I)|[>>>](https://www.youtube.com/watch?v=IjUYhMcKils)|[>>>](https://www.youtube.com/watch?v=WaooXd14Rn0)|
+|18.02|25.02|04.03|11.03|18.03|25.03|01.04|08.04|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[>>>](https://www.youtube.com/watch?v=WUkw7Ceiqk0)|[>>>](https://www.youtube.com/watch?v=5uTmoxPIbbo)|[>>>](https://www.youtube.com/watch?v=2LVyUlEtjpE)|[>>>](https://www.youtube.com/watch?v=UiLblfQuyc0)|[>>>](https://www.youtube.com/watch?v=-tmjGnzY-1I)|[>>>](https://www.youtube.com/watch?v=IjUYhMcKils)|[>>>](https://www.youtube.com/watch?v=WaooXd14Rn0)|[>>>](https://www.youtube.com/watch?v=qnrRYPpO658)|
 
 <br>
 
@@ -138,9 +139,9 @@ Zoom https://us05web.zoom.us/j/83966103977?pwd=K2hiTFBSenM0QUxFOTZSUzdEbHRSZz09
 
 Мудл https://edu.vsu.ru/course/view.php?id=2163
 
-|19.02|05.03|19.03|
-|:-:|:-:|:-:|
-|[Экономика каксоциально-экономическаясистема](https://www.youtube.com/watch?v=CmHddE4ST9k)|[Общественное производствои воспроизводство](https://www.youtube.com/watch?v=MNzAEayrjY0)|[Рынок и механизмего функционирования](https://www.youtube.com/watch?v=QTCvK4kSJlo)|
+|19.02|05.03|19.03|02.04|
+|:-:|:-:|:-:|:-:|
+|[Экономика каксоциально-экономическаясистема](https://www.youtube.com/watch?v=CmHddE4ST9k)|[Общественное производствои воспроизводство](https://www.youtube.com/watch?v=MNzAEayrjY0)|[Рынок и механизмего функционирования](https://www.youtube.com/watch?v=QTCvK4kSJlo)|[Рынок и механизм его функционирования](https://www.youtube.com/watch?v=wbxp9p1LYo8)|
 
 <br>
 
